@@ -1,0 +1,79 @@
+.meta-wrapper #rel-meta > .hndle {
+  height: 35px;
+}
+.meta-wrapper #cs-logo {
+  max-height: 30px;
+  top: 0px;
+  left: 0px;
+}
+.meta-wrapper .rel-panel-group {
+  padding-top: 8px;
+  padding-left: 5px;
+  padding-right: 5px;
+}
+.meta-wrapper .rel-panel-group .rel-panel-heading {
+  width: 100%;
+  padding: 0px 0 0 10px;
+  margin-right: 8px;
+  background-color: #e5e5e5;
+  border: 1px solid #c6c6c6;
+  border-top-left-radius: 5px;
+  border-top-right-radius: 5px;
+  float: left;
+}
+.meta-wrapper .rel-panel-group .rel-body {
+  background-color: #f7f7f7;
+  padding-left: 15px;
+  float: left;
+  margin-right: 8px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  width: 100%;
+}
+.meta-wrapper .rel-panel-group .rel-row-fluid {
+  float: left;
+  width: 100%;
+  text-align: left;
+}
+.meta-wrapper .rel-panel-group .rel-row-fluid h4.rel-panel-title {
+  margin-top: 5px;
+  margin-bottom: 10px;
+  font-size: 14px;
+}
+.meta-wrapper .rel-panel-group .rel-row-fluid h4.rel-panel-title a {
+  text-decoration: none;
+}
+.meta-wrapper .rel-panel-group .rel-row-fluid .rel-col {
+  min-width: 25%;
+  padding-top: 10px;
+}
+.meta-wrapper .rel-panel-group .rel-row-fluid .rel-check-col {
+  padding-top: 15px;
+  min-width: 20%;
+}
+.meta-wrapper .rel-panel-group .rel-row-fluid .rel-sublabel-col {
+  display: none;
+}
+.meta-wrapper .rel-panel-group .rel-row-fluid .rel-col,
+.meta-wrapper .rel-panel-group .rel-row-fluid .rel-check-col {
+  margin: auto;
+  text-align: left;
+  padding-right: 5px;
+  padding-bottom: 8px;
+  float: left;
+  background-color: #f7f7f7;
+}
+.meta-wrapper .rel-panel-group .rel-row-fluid input[type='text'] {
+  max-width: 95%;
+}
+.meta-wrapper .rel-panel-group .rel-row-fluid label {
+  margin-right: 6px;
+}
+.meta-wrapper #postexcerpt {
+  width: 100%;
+  float: left;
+}
+.meta-wrapper #authordiv {
+  width: 100%;
+  float: left;
+}

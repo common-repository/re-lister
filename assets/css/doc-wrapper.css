@@ -1,0 +1,25 @@
+#rel-documentation-wrapper #rel-doc-header-wrapper {
+  max-width: 100%;
+  text-align: center;
+  padding: 20px;
+  background-color: white;
+  border: 1px solid #ccc;
+}
+#rel-documentation-wrapper #rel-doc-content-wrapper #doc-sect-contents .doc-one-third {
+  max-width: 100%;
+  min-width: 33.33%;
+  float: left;
+}
+#rel-documentation-wrapper #rel-doc-content-wrapper #doc-sect-contents .doc-one-third .doc-box-header {
+  text-align: center;
+}
+#rel-documentation-wrapper #rel-doc-content-wrapper #doc-sect-contents .doc-one-third .doc-box-contents {
+  text-align: left;
+  padding: 5px;
+}
+#rel-documentation-wrapper #rel-doc-content-wrapper #doc-sect-contents .doc-one-third .doc-box-contents ul {
+  list-style: none;
+}
+#rel-documentation-wrapper #rel-doc-content-wrapper #doc-sect-contents .doc-one-third .doc-box-contents ul li.doc-disabled {
+  color: #848484;
+}
